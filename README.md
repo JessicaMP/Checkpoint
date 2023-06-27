@@ -1,3 +1,6 @@
-Eduardo luna 
-Alberto Carrera
+# Integrantes
+
+- Eduardo luna 
+- Alberto Carrera
+- Jessica Manturano
 
